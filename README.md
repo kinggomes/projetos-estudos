@@ -8,4 +8,6 @@ Este repositório é apenas uma "vitrine" para os estudos e projetos feitos em r
 
 Questionário de Perfil Profissional: https://github.com/kinggomes/projetos-estudos/tree/main/python/questionario-perfil
 
+Teste de Hipótese: https://github.com/kinggomes/projetos-estudos/tree/main/python/teste-hipotese
+
 
