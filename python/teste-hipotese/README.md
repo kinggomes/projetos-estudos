@@ -1,1 +1,1 @@
-
+Esse é um projeto de criação básica de gráficos e histogramas em Python, utilizando conceitos de Ciência de Dados. Se trata de um arquivo principal "hipotese" que verifica uma hipótese utilizando uma base de dados (verificando se H0 é aceitável ou não), e uma versão alternativa. Ambos os códigos estão comentados com explicações do que está acontecendo, e ambos criam histogramas com os dados apresentados, e revelam no terminal se a hipótese sobre os dados será aceita ou não.
