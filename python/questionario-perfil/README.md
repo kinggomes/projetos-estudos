@@ -1,1 +1,3 @@
 Esse é um projeto de estudo em python que se trata de um questionário com o propósito de definir (com base em pontos marcados nas perguntas) o seu perfil trabalhador e profissional através de critérios sociais voltados para duas definições: comunicativo e estressado. Perceba que são dois arquivos diferentes, porém se tratam do mesmo questionário, um é a primeira e mais básica versão, e o segundo é uma versão já mais aprimorada utilizando conceitos um pouco mais avançados em python.
+
+Link: https://github.com/kinggomes/projetos-estudos/tree/main/python/questionario-perfil
